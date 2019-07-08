@@ -79,6 +79,7 @@ def get_custom_data():
                     print(f"Found the following field: {', '.join(line)}\n")
 
                     while field_kanji_index is None:
+                        # noinspection PyBroadException
                         try:
                             field_kanji_index = line.index(input("Type the name of the field that contains single "
                                                                  "kanji characters.\n"))
@@ -88,6 +89,7 @@ def get_custom_data():
                     while len(fields_custom_index) == 0:
                         fields_custom = [field.strip() for field in input("Type the names of the fields that you want "
                                                                           "to include as custom data\n").split(",")]
+                        # noinspection PyBroadException
                         try:
                             fields_custom_index = [line.index(field) for field in fields_custom]
                         except:
