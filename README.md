@@ -33,7 +33,7 @@ for example a file containing the character 今 will output the following:
 
 ### How to run
 
-To use this tool, simply double-click on _anki-kanji-scraper.py_, in the console window that is opened, the tool will 
+To use this tool, simply double-click on _anki-kanji-scraper.py_. In the console window that is opened, the tool will 
 guide you through the process. Finally, the tool outputs a file called _Output.tsv_, which is importable into Anki.
 
 It is also possible to add some of your own data to the output of this tool. This is optional. To use this feature, 
