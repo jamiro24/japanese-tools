@@ -6,7 +6,6 @@ import time
 import tkinter as tk
 from tkinter import filedialog
 from collections import OrderedDict
-from colorama import Fore
 
 
 def is_kanji(texts):
@@ -46,8 +45,8 @@ def extract_info(info):
 def get_custom_data():
     with_custom = input("Would you like to include custom fields?\n"
                         "To do this you require a '.csv' or '.tsv' file with at least a 'kanji' field and some other "
-                        f"field.\ntype {Fore.CYAN}yes {Fore.YELLOW}and press enter{Fore.RESET} if you want this, otherwise just{Fore.YELLOW} "
-                        f"press enter{Fore.RESET}.\n")
+                        f"field.\ntype yes and press enter if you want this, otherwise just "
+                        f"press enter.\n")
 
     if with_custom:
         print("Please select the '.csv' or '.tsv' file.")
