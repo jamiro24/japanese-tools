@@ -37,3 +37,7 @@ guide you through the process. Finally, the tool outputs a file called _Output.t
 It is also possible to add some of your own data to the output of this tool. This is optional. To use this feature, 
 you need a _.tsv_ or a _.csv_ file with at least a column that contains Kanji characters and one or more columns
 containing data you want to append to the Kanji rows of this tool's output.
+
+# Contributions
+
+If you want to contribute to this repository, feel free to do so! You can make a pull-request and if it's good enough I will merge it into the repository. It might be smart to first make an issue, where we can discuss the functionality you want to add.
