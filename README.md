@@ -31,6 +31,8 @@ for example a file containing the character 今 will output the following:
 |-------|-------|------------|---------|----------|-------------|-------------|
 |今	    |1	    |4           |4	       |now	      |コン, キン   	|いま
 
+### How to run
+
 To use this tool, simply double-click on _anki-kanji-scraper.py_, in the console window that is opened, the tool will 
 guide you through the process. Finally, the tool outputs a file called _Output.tsv_, which is importable into Anki.
 
