@@ -20,7 +20,7 @@ You are now ready to use the tool!
 This section explains what each of the tools do, and how to use them.
 ## Anki Kanji Scraper
 
-Creating anki decks can be cumbersome, so I decided to create this tool to help with this.
+Creating anki decks can be cumbersome, so this tool was created to help with this.
 
 It takes any file and searches for all unique kanji characters and then gathers info like the character's meaning and 
 reading and saves all this info in a file which can be imported into anki.
