@@ -1,6 +1,5 @@
 import os
 import re
-import requests
 import csv
 import time
 import tkinter as tk
@@ -26,9 +25,6 @@ def get_unique_kanji(file_content):
 
 
 def get_kanji_info(kanji):
-    # url = f"https://kanjiapi.dev/v1/kanji/{kanji}"
-    # result = requests.get(url)
-    # return result.json()
     xml = ET.parse("kanjidic2.xml").getroot()
     result = {
         "kanji": kanji
