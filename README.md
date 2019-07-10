@@ -20,7 +20,7 @@ You are now ready to use the tool!
 This section explains what each of the tools do, and how to use them.
 ## Anki Kanji Scraper
 
-Creating anki decks can be cumbersome, so I decided to create this tool to help with this.
+Creating anki decks can be cumbersome, so this tool was created to help with this.
 
 It takes any file and searches for all unique kanji characters and then gathers info like the character's meaning and 
 reading and saves all this info in a file which can be imported into anki.
@@ -31,9 +31,15 @@ for example a file containing the character 今 will output the following:
 |-------|-------|------------|---------|----------|-------------|-------------|
 |今	    |1	    |4           |4	       |now	      |コン, キン   	|いま
 
-To use this tool, simply double-click on _anki-kanji-scraper.py_, in the console window that is opened, the tool will 
+### How to run
+
+To use this tool, simply double-click on _anki-kanji-scraper.py_. In the console window that is opened, the tool will 
 guide you through the process. Finally, the tool outputs a file called _Output.tsv_, which is importable into Anki.
 
 It is also possible to add some of your own data to the output of this tool. This is optional. To use this feature, 
 you need a _.tsv_ or a _.csv_ file with at least a column that contains Kanji characters and one or more columns
 containing data you want to append to the Kanji rows of this tool's output.
+
+# Contributions
+
+If you want to contribute to this repository, feel free to do so! You can make a pull-request and if it's good enough I will merge it into the repository. It might be smart to first make an issue, where we can discuss the functionality you want to add.
