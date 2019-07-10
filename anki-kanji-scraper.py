@@ -6,6 +6,7 @@ import time
 import tkinter as tk
 from tkinter import filedialog
 from collections import OrderedDict
+import xml.etree.ElementTree as ET
 
 
 def is_kanji(texts):
@@ -25,9 +26,31 @@ def get_unique_kanji(file_content):
 
 
 def get_kanji_info(kanji):
-    url = f"https://kanjiapi.dev/v1/kanji/{kanji}"
-    result = requests.get(url)
-    return result.json()
+    # url = f"https://kanjiapi.dev/v1/kanji/{kanji}"
+    # result = requests.get(url)
+    # return result.json()
+    xml = ET.parse("kanjidic2.xml").getroot()
+    result = {
+        "kanji": kanji
+    }
+
+    xml_char = xml.find(f'./character/[literal="{kanji}"]')
+
+    jlpt = xml_char.find("./misc/jlpt")
+    grade = xml_char.find("./misc/grade")
+
+    result["jlpt"] = jlpt.text if jlpt is not None else ""
+    result["grade"] = grade.text if grade is not None else ""
+    result["stroke_count"] = xml_char.find("./misc/stroke_count").text
+    result["meanings"] = [meaning.text for meaning in xml_char.findall("./reading_meaning/rmgroup/meaning") if "m_lang"
+                          not in meaning.attrib]
+    result["kun_readings"] = [kun.text for kun in xml_char.findall("./reading_meaning/rmgroup/reading") if ("r_type" in
+                                                                                                            kun.attrib)
+                              and kun.attrib["r_type"] == "ja_kun"]
+    result["on_readings"] = [on.text for on in xml_char.findall("./reading_meaning/rmgroup/reading") if ("r_type" in
+                                                                                                         on.attrib)
+                             and on.attrib["r_type"] == "ja_on"]
+    return result
 
 
 def extract_info(info):
