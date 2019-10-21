@@ -1,0 +1,533 @@
+0	一	イチ		一[イチ]	one	best, first, foremost, beginning, start
+1	一つ	ひとつ		一[ひと]つ	one	for one thing
+2	二	ニ		二[ニ]	two	
+3	二つ	ふたつ		二[ふた]つ	two (things)	
+4	三	サン		三[サン]	three	tri-
+5	三つ	みっつ		三[みっ]つ	three (things)	
+6	一人	ひとり		一[ひと]人[り]	one person	
+7	二人	ふたり		二[ふた]人[り]	two people	pair, couple
+8	本人	ホンニン		本[ホン]人[ニン]	the person themself	the person in question
+9	入る	はいる		入[はい]る	to enter	to go into
+10	入れる	いれる		入[い]れる	to put in	to let in, to take in, to bring in, to insert, to set (a jewel, etc.), to ink in (e.g. a tattoo)
+11	火	ひ		火[ひ]	fire	flame, blaze
+12	口	くち		口[くち]	mouth	counter for mouthfuls
+13	人口	ジンコウ		人[ジン]口[コウ]	population	
+14	入口	いりぐち		入[いり]口[ぐち]	entrance	entry, gate, approach, mouth
+15	回る	まわる		回[まわ]る	to turn	to revolve
+16	日	ひ		日[ひ]	day	sun
+17	一日	イチニチ		一[イチ]日[ニチ]	one day	
+18	二日	ふつか		二[ふつ]日[か]	the second day of the month	
+19	三日	みっか		三[みっ]日[か]	the third day of the month	
+20	日本	ニホン・ニッポン		日[ニ]本[ホン]	Japan	
+21	白	しろ		白[しろ]	white	
+22	白い	しろい		白[しろ]い	white	
+23	白人	ハクジン		白[ハク]人[ジン]	white person	Caucasian
+24	月	つき		月[つき]	moon	month
+25	一月	イチガツ	ひとつき	一[イチ]月[ガツ]	January	
+27	目	め		目[め]	eye	eyeball, ordinal number suffix
+28	自ら	みずから		自[みずか]ら	oneself	
+29	耳	みみ		耳[みみ]	ear	
+30	見る	みる		見[み]る	to see	to look, to watch, to view, to observe, to try, to try out, to test
+31	見せる	みせる		見[み]せる	to show	to display
+32	見つかる	みつかる		見[み]つかる	to be found	to be discovered
+33	見える	みえる		見[み]える	to be seen	to be in sight
+34	四	シ	よん	四[シ]	four	
+36	四つ	よっつ		四[よっ]つ	four (things)	
+37	四日	よっか		四[よっ]日[か]	the fourth day of the month	
+38	五	ゴ		五[ゴ]	five	
+39	五つ	いつつ		五[いつ]つ	five (things)	
+40	五日	いつか		五[いつ]日[か]	the fifth day of the month	
+41	六	ロク		六[ロク]	six	
+42	六つ	むっつ		六[むっ]つ	six (things)	
+43	六日	むいか		六[むい]日[か]	the sixth day of the month	
+44	七	シチ	なな	七[シチ]	seven	
+46	七つ	ななつ		七[なな]つ	seven (things)	
+47	七日	なのか		七[なの]日[か]	the seventh day of the month	
+48	七月	シチガツ		七[シチ]月[ガツ]	July	
+49	八	ハチ		八[ハチ]	eight	
+50	八つ	やっつ		八[やっ]つ	eight (things)	
+51	八日	ようか		八[よう]日[か]	the eighth day of the month	
+52	九	キュウ		九[キュウ]	nine	
+53	九つ	ここのつ		九[ここの]つ	nine (things)	
+54	九日	ここのか		九[ここの]日[か]	the ninth day of the month	
+55	丸い	まるい		丸[まる]い	round (spherical)	harmonious, calm
+56	丸で	まるで		丸[まる]で	quite	entirely, completely, at all, as if, as though, just like
+57	日の丸	ひのまる		日[ひ]の丸[まる]	the sun represented as a red circle	
+58	一丸	イチガン		一[イチ]丸[ガン]	lump	(into) one
+59	力	ちから		力[ちから]	force	strength, might, vigor, energy
+60	刀	かたな		刀[かたな]	(single-edged) sword	katana
+61	自分	ジブン		自[ジ]分[ブン]	myself	yourself, oneself
+62	分かる	わかる		分[わ]かる	to understand	to comprehend, to grasp, to see, to get, to follow
+63	切る	きる		切[き]る	to cut	to cut through, to perform (surgery), to finish, to complete
+64	一切	イッサイ		一[イッ]切[サイ]	all	everything, the whole, lock, stock, and barrel, absolutely not (with negative), without exception, entirely not
+65	十	ジュウ		十[ジュウ]	ten	
+66	十分	ジュウブン		十[ジュウ]分[ブン]	plenty	enough, sufficient, satisfactory, adequate, division into ten, perfectly, thoroughly, fully, in full
+67	十日	とおか		十[とお]日[か]	the tenth day of the month	
+68	木	き		木[き]	tree	shrub, bush
+69	林	はやし		林[はやし]	woods	forest, copse, thicket
+70	森	もり		森[もり]	forest	
+71	森林	シンリン		森[シン]林[リン]	forest	woods
+72	米	こめ		米[こめ]	(husked grains of) rice	
+73	日米	ニチベイ		日[ニチ]米[ベイ]	Japan-America	
+74	来月	ライゲツ		来[ライ]月[ゲツ]	next month	
+75	来る	くる		来[く]る	to come (spatially or temporally)	to approach, to arrive, to come back, to do ... and come back, to come from, to be caused by, to derive from
+76	上げる	あげる		上[あ]げる	to raise	to do up, to do for (the sake of someone else), to complete
+77	上	うえ		上[うえ]	above	up, over, suffix indicating higher social standing
+78	下げる	さげる		下[さ]げる	to hang	to suspend, to wear (e.g. decoration)
+79	下さい	ください		下[くだ]さい	please give me	
+80	下	した		下[した]	below	down, under, younger (e.g. sibling), inferiority, one's inferior (i.e. one's junior), trade-in
+81	下る	くだる		下[くだ]る	to descend	to go down, to come down
+82	下ろす	おろす		下[お]ろす	to take down (e.g. flag	ladder), to launch (e.g. boat), to unload, to let (a person) off, to withdraw (cash), to wear (clothing) for the first time, to fillet (e.g. a fish)
+83	中	なか		中[なか]	inside	in
+84	日中	ニッチュウ		日[ニッ]中[チュウ]	daytime	during the day, Sino-Japanese
+85	仲	なか		仲[なか]	relation	relationship
+86	休み	やすみ		休[やす]み	rest	recess, respite
+87	休む	やすむ		休[やす]む	to be absent	to take a day off
+88	体	からだ		体[からだ]	body	torso, trunk, health, corpse, dead body
+89	一体	イッタイ		一[イッ]体[タイ]	"...in the world (e.g. ""what in the world?"")"	one object, one body, unity, generally, in general
+90	小さい	ちいさい		小[ちい]さい	small	little, tiny
+91	小さな	ちいさな		小[ちい]さな	small	little, tiny
+92	少し	すこし		少[すこ]し	small quantity	little, few, something
+93	少ない	すくない		少[すく]ない	few	a little, scarce, insufficient, seldom
+94	大切	タイセツ		大[タイ]切[セツ]	important	necessary, indispensable
+95	大きい	おおきい		大[おお]きい	big	large, great
+96	大きな	おおきな		大[おお]きな	big	large, great
+97	大分	ダイブ		大[ダイ]分[ブ]	considerably	greatly, a lot
+98	大体	ダイタイ		大[ダイ]体[タイ]	outline	main point, gist, general, substantially, approximately, about
+99	犬	いぬ		犬[いぬ]	dog (Canis (lupus) familiaris)	counterfeit, inferior, useless, wasteful
+100	太い	ふとい		太[ふと]い	fat	thick
+101	太る	ふとる		太[ふと]る	to grow fat (stout	plump), to become fat, to gain weight
+102	天下り	あまくだり		天[あま]下[くだ]り	retiring high-ranking government officials taking a lucrative job in a private or semi-private corporation	
+103	川	かわ		川[かわ]	river	stream, River, the ... river
+104	小川	おがわ		小[お]川[がわ]	stream	brook, creek
+105	州	シュウ		州[シュウ]	state	province, county, oblast, department (of ancient China), dear
+106	九州	キュウシュウ		九[キュウ]州[シュウ]	Kyushu (southernmost of the four main islands of Japan)	
+107	水	みず		水[みず]	water (esp. cool	fresh water, e.g. drinking water)
+108	氷	こおり		氷[こおり]	ice	
+109	子	こ		子[こ]	child	player who is not a dealer (in cards, mahjong, etc.), bird egg
+110	字	あざ		字[あざ]	section of village	
+111	大学	ダイガク		大[ダイ]学[ガク]	university	college
+112	入学	ニュウガク		入[ニュウ]学[ガク]	entry to school or university	matriculation, enrollment (in university, etc.)
+113	学ぶ	まなぶ		学[まな]ぶ	to study (in depth)	to learn, to take lessons in
+114	女	おんな		女[おんな]	female	woman, female sex, female lover, girlfriend, mistress, (someone's) woman
+115	女の子	おんなのこ		女[おんな]の子[こ]	girl	daughter
+116	女子	ジョシ		女[ジョ]子[シ]	woman	girl
+117	少女	ショウジョ		少[ショウ]女[ジョ]	little girl	maiden, young lady, female usually between 7 and 18 years old
+118	安い	やすい		安[やす]い	cheap	inexpensive
+119	目安	めやす		目[め]安[やす]	criterion	standard, yardstick, reference, aim
+120	好き	すき		好[す]き	liked	well-liked, favorite
+121	大好き	ダイすき		大[ダイ]好[す]き	like very much	loveable
+122	好み	このみ		好[この]み	liking	taste, choice
+123	水田	スイデン		水[スイ]田[デン]	(water-filled) paddy field	
+124	男	おとこ		男[おとこ]	man	male, fellow, guy, chap, bloke
+125	男子	ダンシ		男[ダン]子[シ]	youth	young man
+126	お父さん	おとうさん		お父[とう]さん	father	dad, papa, pa, pop, daddy, dada
+127	交わす	かわす		交[か]わす	to exchange (messages	greetings, arguments, etc.), ... with one another, ... to each other
+128	学校	ガッコウ		学[ガッ]校[コウ]	school	
+129	小学校	ショウガッコウ		小[ショウ]学[ガッ]校[コウ]	primary school	elementary school, grade school
+130	中学校	チュウガッコウ		中[チュウ]学[ガッ]校[コウ]	junior high school	middle school, lower secondary school
+131	効力	コウリョク		効[コウ]力[リョク]	effect	efficacy, validity, potency
+132	効く	きく		効[き]く	to be effective	to show effect
+133	百	ヒャク		百[ヒャク]	100	hundred
+134	千	セン		千[セン]	thousand	1,000
+135	千切る	ちぎる		千[ち]切[ぎ]る	to tear to pieces	to tear to shreds, to tear up, to do ... heavily, to do ... heartily, to do ... vigorously
+136	万一	マンイチ		万[マン]一[イチ]	emergency	unlikely event, by some chance, by some possibility
+137	放る	ホウる		放[ホウ]る	to throw	to fling, to hurl, to toss
+138	放す	はなす		放[はな]す	to release	to let go, to free, to set free, to let loose, to turn loose
+139	言う	いう		言[い]う	to say	to utter, to declare
+140	一言	ひとこと		一[ひと]言[こと]	single word	a few words, brief comment
+141	訪ねる	たずねる		訪[たず]ねる	to visit	to call on, to pay a visit to
+142	訪中	ホウチュウ		訪[ホウ]中[チュウ]	visit to China	
+143	防ぐ	ふせぐ		防[ふせ]ぐ	to defend against	to protect against
+144	円	エン		円[エン]	Japanese monetary unit	
+145	円い	まるい		円[まる]い	round (circular)	
+146	内	うち		内[うち]	inside	within, we (referring to one's in-group, e.g. company, etc.), our, imperial palace grounds, I (primarily used by women and children), me
+147	肉	ニク		肉[ニク]	meat	flesh
+148	太り肉	ふとりじし		太[ふと]り肉[じし]	corpulent	fat, chubby
+149	山	やま		山[やま]	mountain	hill, crown (of a hat), thread (of a screw), tread (of a tire), protruding part of an object
+150	火山	カザン		火[カ]山[ザン]	volcano	
+151	山林	サンリン		山[サン]林[リン]	mountain forest	
+152	氷山	ヒョウザン		氷[ヒョウ]山[ザン]	iceberg	
+153	出口	でぐち		出[で]口[ぐち]	exit	gateway, way out, outlet, leak, vent
+154	出す	だす		出[だ]す	to take out	to get out, to begin ..., to start to ..., to burst into ...
+155	出来る	できる		出[で]来[き]る	to be able (in a position) to do	to be up to the task
+156	出る	でる		出[で]る	to leave	to exit, to go out, to come out, to get out
+157	出かける	でかける		出[で]かける	to go out (e.g. on an excursion or outing)	to leave, to depart, to start, to set out
+158	土	つち		土[つち]	earth	soil, dirt, clay, mud
+159	古い	ふるい		古[ふる]い	old	aged, ancient, antiquated, antique, timeworn
+160	中古	チュウコ		中[チュウ]古[コ]	used	second-hand, old, Middle Ages
+161	早い	はやい		早[はや]い	early (in the day	etc.), premature, easy, simple, quick
+162	草	くさ		草[くさ]	grass	weed, herb, thatch, laughter, LOL
+163	王子	オウジ		王[オウ]子[ジ]	prince	
+164	女王	ジョオウ		女[ジョ]王[オウ]	queen	
+165	主に	おもに		主[おも]に	mainly	primarily
+166	玉	たま		玉[たま]	ball	sphere, globe, orb, egg
+167	目玉	めだま		目[め]玉[だま]	eyeball	
+168	国	くに		国[くに]	country	state
+169	安全	アンゼン		安[アン]全[ゼン]	safety	security
+170	全て	すべて		全[すべ]て	everything	all, the whole, entirely, completely, wholly, all
+171	お金	おかね		お金[かね]	money	
+172	安心	アンシン		安[アン]心[シン]	relief	peace of mind
+173	中心	チュウシン		中[チュウ]心[シン]	center	middle, heart, core, focus, pivot, emphasis, balance, -centered, -focused, -oriented
+174	心	こころ		心[こころ]	mind	heart, spirit
+175	必ず	かならず		必[かなら]ず	always	without exception, necessarily, certainly, without fail, positively, invariably
+176	皿	さら		皿[さら]	plate	dish, platter, disc, serving, helping, course, kanji radical 108 (at the bottom)
+177	血	ち		血[ち]	blood	consanguinity
+178	出血	シュッケツ		出[シュッ]血[ケツ]	bleeding	hemorrhage
+179	切手	きって		切[きっ]手[て]	stamp (postage)	merchandise certificate
+180	手	て		手[て]	hand	arm, move (in go, shogi, etc.)
+181	毛	け		毛[け]	hair	
+182	干す	ほす		干[ほ]す	to air	to dry, to desiccate
+183	平日	ヘイジツ		平[ヘイ]日[ジツ]	weekday	ordinary days (i.e. non-holiday)
+184	平ら	たいら		平[たい]ら	flatness	level, smooth, calm, plain, sitting tailor fashion
+185	呼ぶ	よぶ		呼[よ]ぶ	to call out (to)	to call, to invoke
+186	呼び出す	よびだす		呼[よ]び出[だ]す	to summon	to call (e.g. phone), to convene, to decoy, to lure
+187	午	うま		午[うま]	seventh sign of the Chinese zodiac (The Horse	11am–1pm, south, May)
+188	許す	ゆるす		許[ゆる]す	to permit	to allow, to approve, to consent to
+189	半分	ハンブン		半[ハン]分[ブン]	half	
+190	大半	タイハン		大[タイ]半[ハン]	majority	more than half, most (of), mostly, largely, mainly, predominately, nearly
+191	半ば	なかば		半[なか]ば	middle	half, semi, halfway, partly
+192	牛肉	ギュウニク		牛[ギュウ]肉[ニク]	beef	
+193	牛	うし		牛[うし]	cattle (Bos taurus)	cow, bull, ox, calf
+194	村	むら		村[むら]	village	
+195	付ける	つける		付[つ]ける	to attach	to join, to add, to append, to affix, to stick, to glue, to fasten, to sew on, to apply (ointment)
+196	日付	ひづけ		日[ひ]付[づけ]	date	dating
+197	守る	まもる		守[まも]る	to protect	to guard, to defend
+198	団体	ダンタイ		団[ダン]体[タイ]	organization	association
+199	寺	てら		寺[てら]	temple (Buddhist)	
+200	国分寺	コクブンジ		国[コク]分[ブン]寺[ジ]	state-supported provincial temple (Nara period)	
+201	一時	イチジ		一[イチ]時[ジ]	one o'clock	once, at one time, formerly, before, for a time, for a while, for the time being, for the present, for the moment, temporarily, a time, one time, once
+202	持つ	もつ		持[も]つ	to hold (in one's hand)	to take, to carry
+203	持ち上げる	もちあげる		持[も]ち上[あ]げる	to elevate	to raise, to lift up
+204	特に	トクに		特[トク]に	particularly	especially
+205	特許	トッキョ		特[トッ]許[キョ]	patent	special permission, license, concession, franchise, charter, proprietary
+206	詩人	シジン		詩[シ]人[ジン]	poet	
+207	詩	シ		詩[シ]	poem	verse of poetry
+208	待つ	まつ		待[ま]つ	to wait	
+209	見物	ケンブツ		見[ケン]物[ブツ]	sightseeing	watching, viewing, sightseer, watcher, spectator
+210	元	もと		元[もと]	origin	source, counter for blades of grass, tree trunks, etc., and for falcons (in falconry), handle (chopsticks, brush, etc.), grip
+211	完全	カンゼン		完[カン]全[ゼン]	perfect	complete
+212	完了	カンリョウ		完[カン]了[リョウ]	completion	conclusion, perfect (tense, form, aspect)
+213	入院	ニュウイン		入[ニュウ]院[イン]	hospitalization	
+214	退院	タイイン		退[タイ]院[イン]	leaving hospital	discharge from hospital
+215	寺院	ジイン		寺[ジ]院[イン]	temple	
+216	大学院	ダイガクイン		大[ダイ]学[ガク]院[イン]	graduate school	
+217	文学	ブンガク		文[ブン]学[ガク]	literature	
+218	文字	モジ		文[モ]字[ジ]	letter (of alphabet)	character
+219	文	ふみ		文[ふみ]	letter	writings
+220	対	ツイ		対[ツイ]	pair	couple, set, counter for items that come in pairs
+221	右	みぎ		右[みぎ]	right	right hand side
+222	右手	みぎて		右[みぎ]手[て]	right hand	right-hand side, right-hand direction, (on) the right
+223	若い	わかい		若[わか]い	young	youthful
+224	若し	もし		若[も]し	if	in case, supposing
+225	若干	ジャッカン		若[ジャッ]干[カン]	some	few, a number of, a little (bit), somewhat, to a certain extent, many, a lot
+226	石	いし		石[いし]	stone	
+227	岩	いわ		岩[いわ]	rock	boulder
+228	人工	ジンコウ		人[ジン]工[コウ]	artificial	human-made, human work, human skill, artificiality
+229	左	ひだり		左[ひだり]	left	left hand side
+230	左右	サユウ		左[サ]右[ユウ]	left and right	
+231	又	また		又[また]	again	and, also, still (doing something)
+232	又は	または		又[また]は	or	otherwise
+233	友	とも		友[とも]	friend	companion, comrade, pal
+234	友人	ユウジン		友[ユウ]人[ジン]	friend	
+235	有る	ある		有[あ]る	to be	to exist, to live
+236	有効	ユウコウ		有[ユウ]効[コウ]	valid	effective, yuko (judo)
+237	お母さん	おかあさん		お母[かあ]さん	mother	mom, mum, ma
+238	父母	フボ		父[フ]母[ボ]	father and mother	parents
+239	毎月	マイつき		毎[マイ]月[つき]	every month	each month, monthly
+240	毎日	マイニチ		毎[マイ]日[ニチ]	every day	
+241	海	うみ		海[うみ]	sea	ocean, waters
+242	梅	うめ		梅[うめ]	Japanese apricot (Prunus mume)	Japanese plum, ume, Chinese plum
+243	梅干し	うめぼし		梅[うめ]干[ぼ]し	umeboshi	pickled dried ume, pickled dried plum
+244	悔しい	くやしい		悔[くや]しい	vexing	annoying, frustrating, regrettable, mortifying
+245	悔い	くい		悔[く]い	regret	repentance
+246	元気	ゲンキ		元[ゲン]気[キ]	lively	full of spirit, energetic, vigorous, vital, spirited
+247	天気	テンキ		天[テン]気[キ]	weather	the elements
+248	気	キ		気[キ]	spirit	mind, heart
+249	気分	キブン		気[キ]分[ブン]	feeling	mood
+250	気持ち	キもち		気[キ]持[も]ち	feeling	sensation, mood, just a little, somewhat, slightly
+251	気体	キタイ		気[キ]体[タイ]	gas	vapor
+252	今月	コンゲツ		今[コン]月[ゲツ]	this month	
+253	今	いま		今[いま]	now	the present time, just now, soon, immediately, (one) more
+254	今回	コンカイ		今[コン]回[カイ]	now	this time, lately
+255	公平	コウヘイ		公[コウ]平[ヘイ]	fairness	impartiality, justice, objectivity
+256	公	おおやけ		公[おおやけ]	official	governmental, formal
+257	夕方	ゆうがた		夕[ゆう]方[がた]	evening	dusk
+258	有名	ユウメイ		有[ユウ]名[メイ]	famous	fame
+259	名人	メイジン		名[メイ]人[ジン]	master	expert
+260	外国人	ガイコクジン		外[ガイ]国[コク]人[ジン]	foreigner	foreign citizen, foreign national, alien, non-Japanese
+261	外	そと		外[そと]	outside	exterior
+262	外国	ガイコク		外[ガイ]国[コク]	foreign country	
+263	海外	カイガイ		海[カイ]外[ガイ]	foreign	abroad, overseas
+264	外交	ガイコウ		外[ガイ]交[コウ]	diplomacy	
+265	多分	タブン		多[タ]分[ブン]	perhaps	probably, generous, many, much, great
+266	多い	おおい		多[おお]い	many	numerous, a lot
+267	多少	タショウ		多[タ]少[ショウ]	more or less	somewhat, a little, a few, some, amount, quantity
+268	丁目	チョウめ		丁[チョウ]目[め]	district of a town	city block (of irregular size)
+269	打つ	うつ	ぶつ	打[う]つ	to hit	to strike, to knock, to beat, to punch, to slap, to tap, to bang, to clap, to pound
+271	町	まち		町[まち]	town	block, neighborhood
+272	下町	したまち		下[した]町[まち]	low-lying part of a city (usu. containing shops	factories, etc.)
+273	立つ	たつ		立[た]つ	to stand	to rise, to stand up
+274	位	くらい		位[くらい]	throne	crown, (nobleman's) seat, grade (of quality, etc.), level, tier, rank
+275	泣く	なく		泣[な]く	to cry	to weep, to sob, to howl
+276	悔し泣き	くやしなき		悔[くや]し泣[な]き	crying from vexation	tears of regret
+277	音	おと		音[おと]	sound	noise, report
+278	物音	ものおと		物[もの]音[おと]	sounds	
+279	五十音	ゴジュウオン		五[ゴ]十[ジュウ]音[オン]	the Japanese syllabary	
+280	意見	イケン		意[イ]見[ケン]	opinion	view, comment
+281	行う	おこなう		行[おこな]う	to perform	to do, to conduct oneself, to carry out
+282	行く	いく		行[い]く	to go	to move (in a direction or towards a specific location), to be transported (towards), to reach, to continue, to have an orgasm
+283	来年	ライネン		来[ライ]年[ネン]	next year	
+284	年	とし		年[とし]	year	
+285	毎年	マイとし		毎[マイ]年[とし]	every year	yearly, annually
+286	少年	ショウネン		少[ショウ]年[ネン]	boy	juvenile, young boy, youth, lad
+287	年月	としつき		年[とし]月[つき]	months and years	
+288	同じ	おなじ		同[おな]じ	same	identical, equal, uniform, equivalent, similar, common (origin), changeless, alike, (usu. part of a 'nara' conditional) anyway, anyhow, in either case
+289	同一	ドウイツ		同[ドウ]一[イツ]	identical	same, one and the same, equal
+290	同時	ドウジ		同[ドウ]時[ジ]	simultaneous	concurrent, same time, synchronous, together
+291	同町	ドウチョウ		同[ドウ]町[チョウ]	the same town	that town
+292	高い	たかい		高[たか]い	high	tall
+293	高校	コウコウ		高[コウ]校[コウ]	senior high school	high school
+294	円高	エンだか		円[エン]高[だか]	appreciation of the yen	strong yen
+295	向こう	むこう		向[む]こう	opposite side	other side, opposite direction
+296	向かう	むかう		向[む]かう	to face	
+297	方向	ホウコウ		方[ホウ]向[コウ]	direction	orientation, bearing, way
+298	何	なに		何[なに]	what	you-know-what, that
+299	何で	なんで		何[なん]で	why?	what for?, how?, by what means?
+300	荷物	にモツ		荷[に]物[モツ]	luggage	baggage, package
+301	荷	に		荷[に]	load	baggage, cargo, freight, goods
+302	出荷	シュッカ		出[シュッ]荷[カ]	shipping	shipment, forwarding
+303	河川	カセン		河[カ]川[セン]	rivers	
+304	氷河	ヒョウガ		氷[ヒョウ]河[ガ]	glacier	
+305	欠ける	かける		欠[か]ける	to be chipped	to be damaged, to be broken
+306	次	つぎ		次[つぎ]	next	following, subsequent
+307	姿	すがた		姿[すがた]	figure	form, shape, dressed in ..., wearing ...
+308	歌	うた		歌[うた]	song	
+309	歌う	うたう		歌[うた]う	to sing	to sing (one's praises in a poem, etc.), to compose a poem, to recite a poem
+310	歌手	カシュ		歌[カ]手[シュ]	singer	
+311	糸	いと		糸[いと]	thread	yarn, string
+312	毛糸	けいと		毛[け]糸[いと]	knitting wool	woollen yarn
+313	体系	タイケイ		体[タイ]系[ケイ]	system	organization, architecture
+314	係	かかり		係[かかり]	charge	duty, person in charge, official, clerk
+315	会う	あう		会[あ]う	to meet	to encounter, to see
+316	絵	エ		絵[エ]	picture	drawing, painting, sketch
+317	付き合い	つきあい		付[つ]き合[あ]い	association	socializing, fellowship
+318	竹	たけ		竹[たけ]	bamboo (Bambusoideae family)	
+319	答える	こたえる		答[こた]える	to answer	to reply
+320	回答	カイトウ		回[カイ]答[トウ]	reply	answer
+321	等	など		等[など]	et cetera	etc., and the like, and so forth
+322	高等学校	コウトウガッコウ		高[コウ]等[トウ]学[ガッ]校[コウ]	senior high school	high school
+323	平等	ビョウドウ		平[ビョウ]等[ドウ]	equality	impartiality, evenness
+324	高等	コウトウ		高[コウ]等[トウ]	high class	high grade
+325	谷	たに		谷[たに]	valley	
+326	谷川	たにがわ		谷[たに]川[がわ]	mountain stream	
+327	内容	ナイヨウ		内[ナイ]容[ヨウ]	contents	content, substance, matter, detail, import
+328	品物	しなもの		品[しな]物[もの]	goods	article, thing
+329	容器	ヨウキ		容[ヨウ]器[キ]	container	receptacle, vessel
+330	器	うつわ		器[うつわ]	bowl	vessel, container, ability, capacity, caliber
+331	以下	イカ		以[イ]下[カ]	not exceeding	and downward, ... and below
+332	以内	イナイ		以[イ]内[ナイ]	within	inside of, less than
+333	以上	イジョウ		以[イ]上[ジョウ]	not less than	... and more, ... and upwards
+334	以外	イガイ		以[イ]外[ガイ]	with the exception of	excepting
+335	以来	イライ		以[イ]来[ライ]	since	henceforth
+336	以て	もって		以[もっ]て	with	by, by means of, in addition (to being), moreover, as well as, and
+337	似る	にる		似[に]る	to resemble	to look like, to take after
+338	似合う	にあう		似[に]合[あ]う	to suit	to match, to become, to be like
+339	魚	さかな		魚[さかな]	fish	
+340	金魚	キンギョ		金[キン]魚[ギョ]	goldfish	
+341	角	かど	つの	角[かど]	corner (e.g. desk	pavement)
+343	三角	サンカク		三[サン]角[カク]	triangle	triangular
+344	見解	ケンカイ		見[ケン]解[カイ]	opinion	point of view
+345	解放	カイホウ		解[カイ]放[ホウ]	release	unleashing, liberation, emancipation, setting free
+346	解く	とく・ほどく		解[と]く	to untie	to unfasten, to unwrap, to undo, to unbind, to unpack
+347	了解	リョウカイ		了[リョウ]解[カイ]	comprehension	consent, understanding, agreement, OK, roger (on two-way radio)
+348	込む	こむ		込[こ]む	to be crowded	to be packed, to go into, to put into, to remain (seated), to be plunged into (silence), to do thoroughly
+349	見込み	みこみ		見[み]込[こ]み	hope	promise, possibility, chance, probability, likelihood
+350	衣	ころも		衣[ころも]	clothes	garment
+351	長い	ながい		長[なが]い	long (distance)	
+352	校長	コウチョウ		校[コウ]長[チョウ]	principal	headmaster
+353	特長	トクチョウ		特[トク]長[チョウ]	forte	merit
+354	根	ね		根[ね]	root (of a plant)	
+355	大根	ダイコン		大[ダイ]根[コン]	daikon (variety of large white Oriental radish)	
+356	限る	かぎる		限[かぎ]る	to restrict	to limit, to confine, to be restricted to, to be limited to, to be confined to
+357	銀行	ギンコウ		銀[ギン]行[コウ]	bank	
+358	銀	ギン		銀[ギン]	silver (Ag)	silver coin, money, silver color, silver color, bank
+359	銀河	ギンガ		銀[ギン]河[ガ]	Milky Way	
+360	良い	よい		良[よ]い	good	excellent, fine, nice, pleasant, agreeable
+361	仲良し	なかよし		仲[なか]良[よ]し	intimate friend	close friend, bosom buddy, chum
+362	食べ物	たべもの		食[た]べ物[もの]	food	
+363	食べる	たべる		食[た]べる	to eat	
+364	食品	ショクヒン		食[ショク]品[ヒン]	food	food products, foodstuffs
+365	飲み物	のみもの		飲[の]み物[もの]	drink	beverage
+366	飲む	のむ		飲[の]む	to drink	to gulp, to swallow, to take (medicine)
+367	飲食	インショク		飲[イン]食[ショク]	food and drink	eating and drinking
+368	図	ズ		図[ズ]	drawing	picture, diagram, figure, illustration, chart, graph
+369	図る	はかる		図[はか]る	to plan	to attempt, to devise
+370	食料品	ショクリョウヒン		食[ショク]料[リョウ]品[ヒン]	foodstuff	groceries
+371	料金	リョウキン		料[リョウ]金[キン]	fee	charge, fare
+372	食料	ショクリョウ		食[ショク]料[リョウ]	food	
+373	給う	たまう		給[たま]う	to do	to give
+374	給料	キュウリョウ		給[キュウ]料[リョウ]	salary	wages, pay
+375	衣料	イリョウ		衣[イ]料[リョウ]	clothing	
+376	科学	カガク		科[カ]学[ガク]	science	
+377	科目	カモク		科[カ]目[モク]	(school) subject	curriculum, course
+378	内科	ナイカ		内[ナイ]科[カ]	internal medicine	i.e. treatment by medical procedures rather than surgical procedures
+379	秋	あき		秋[あき]	autumn	fall
+380	秋分	シュウブン		秋[シュウ]分[ブン]	autumn equinox	
+381	委ねる	ゆだねる		委[ゆだ]ねる	to entrust (a matter) to	to leave to
+382	案内	アンナイ		案[アン]内[ナイ]	information	guidance, leading, to guide, to show (around), to conduct
+383	答案	トウアン		答[トウ]案[アン]	examination paper	examination script, answer sheet
+384	香り	かおり		香[かお]り	aroma	fragrance, scent, smell
+385	香水	コウスイ		香[コウ]水[スイ]	perfume	
+386	四季	シキ		四[シ]季[キ]	four seasons	
+387	移る	うつる		移[うつ]る	to move (house)	to transfer (department)
+388	移す	うつす		移[うつ]す	to change	to swap, to substitute, to transfer
+389	不安	フアン		不[フ]安[アン]	anxiety	uneasiness, insecurity, suspense
+390	不可	フカ		不[フ]可[カ]	wrong	bad, improper, unjustifiable, inadvisable, failing grade
+391	不良	フリョウ		不[フ]良[リョウ]	bad	poor, inferior, delinquent, hoodlum, hooligan
+392	束	たば		束[たば]	bundle	bunch, sheaf
+393	高速	コウソク		高[コウ]速[ソク]	high-speed	rapid, express, highway, freeway, expressway, motorway
+394	速やか	すみやか		速[すみ]やか	quick	speedy, prompt, rapid, swift
+395	東	ひがし		東[ひがし]	east	
+396	練る	ねる		練[ね]る	to knead	to thicken into a paste (stirring over a flame), to walk in procession, to parade, to march
+397	地図	チズ		地[チ]図[ズ]	map	
+398	土地	トチ		土[ト]地[チ]	plot of land	lot, soil
+399	地位	チイ		地[チ]位[イ]	(social) position	status
+400	地元	ジもと		地[ジ]元[もと]	home area	home town, local
+401	他	ほか		他[ほか]	other (place	thing, person), the rest, nothing except, nothing but, nothing apart from, nothing aside from, no choice (but to)
+402	他人	タニン		他[タ]人[ニン]	another person	other people, others
+403	池	いけ		池[いけ]	pond	
+404	応じる	オウじる		応[オウ]じる	to respond	to satisfy, to accept, to comply with, to apply for
+405	一応	イチオウ		一[イチ]応[オウ]	more or less	though not quite satisfactorily, after a fashion, pretty much, roughly, so far as it goes, tentatively, for the time being
+406	応対	オウタイ		応[オウ]対[タイ]	dealing with (people	customers, complaints, etc.), receiving (callers, visitors, etc.), attending to, handling, serving
+407	応える	こたえる		応[こた]える	to respond	to answer, to meet (e.g. demands, expectations)
+408	府立	フリツ		府[フ]立[リツ]	managed by an urban prefecture	prefectural
+409	広い	ひろい		広[ひろ]い	spacious	vast, wide
+410	拡大	カクダイ		拡[カク]大[ダイ]	magnification	enlargement, expansion, amplification
+411	自己	ジコ		自[ジ]己[コ]	self	oneself
+412	己	おのれ		己[おのれ]	oneself (itself	etc.), by oneself (itself, etc.), interjection expressing anger or chagrin
+413	日記	ニッキ		日[ニッ]記[キ]	diary	journal
+414	記す	しるす		記[しる]す	to write down	to note, to jot down
+415	紀元	キゲン		紀[キ]元[ゲン]	era	
+416	改める	あらためる		改[あらた]める	to change	to alter, to revise, to replace
+417	改良	カイリョウ		改[カイ]良[リョウ]	improvement	reform
+418	色	いろ		色[いろ]	color	hue, tint, shade
+419	特色	トクショク		特[トク]色[ショク]	characteristic	feature, idiosyncrasy, personal color
+420	絶対	ゼッタイ		絶[ゼッ]対[タイ]	absolutely	unconditionally, absolute, unconditional, unmistakable, absoluteness
+421	絶えず	たえず		絶[た]えず	constantly	always, continually, steadily
+422	止まる	とまる		止[と]まる	to stop (moving)	to come to a stop
+423	中止	チュウシ		中[チュウ]止[シ]	suspension	stoppage, discontinuance, interruption
+424	防止	ボウシ		防[ボウ]止[シ]	prevention	check
+425	企てる	くわだてる		企[くわだ]てる	to plan	to plot, to propose, to design, to intend, to contemplate
+426	企む	たくらむ		企[たくら]む	to scheme	to plan, to play a trick, to invent, to conspire, to frame up
+427	歩く	あるく		歩[ある]く	to walk	
+428	干渉	カンショウ		干[カン]渉[ショウ]	interference	intervention, meddling
+429	渉外	ショウガイ		渉[ショウ]外[ガイ]	public relations	client liaison
+430	足	あし		足[あし]	foot	
+431	不足	フソク		不[フ]足[ソク]	insufficiency	shortage, deficiency, lack, dearth
+432	走る	はしる		走[はし]る	to run	
+433	走行	ソウコウ		走[ソウ]行[コウ]	running a wheeled vehicle (e.g. car)	running to program, job, etc., traveling
+434	起きる	おきる		起[お]きる	to get up	to rise, to blaze up (fire)
+435	起こる	おこる		起[お]こる	to occur	to happen
+436	正しい	ただしい		正[ただ]しい	right	correct
+437	正午	ショウゴ		正[ショウ]午[ゴ]	noon	midday
+438	改正	カイセイ		改[カイ]正[セイ]	revision	amendment, alteration
+439	安定	アンテイ		安[アン]定[テイ]	stability	steadiness, equilibrium
+440	否定	ヒテイ		否[ヒ]定[テイ]	denial	negation, repudiation, disavowal, negation (logic)
+441	特定	トクテイ		特[トク]定[テイ]	specific	particular, designated, special, specifying, designating, identifying, pinpointing
+442	定める	さだめる		定[さだ]める	to decide	to determine
+443	政府	セイフ		政[セイ]府[フ]	government	administration
+444	政	まつりごと		政[まつりごと]	rule	government
+445	午後	ゴゴ		午[ゴ]後[ゴ]	afternoon	p.m.
+446	後ろ	うしろ		後[うし]ろ	back	behind, rear
+447	後	あと		後[あと]	behind	rear, more (e.g. five more minutes), left, past, previous
+448	後悔	コウカイ		後[コウ]悔[カイ]	regret	repentance, remorse
+449	冬	ふゆ		冬[ふゆ]	winter	
+450	冬季	トウキ		冬[トウ]季[キ]	(season of) winter	
+451	終わり	おわり		終[お]わり	the end	
+452	終える	おえる		終[お]える	to finish	to graduate
+453	終了	シュウリョウ		終[シュウ]了[リョウ]	end	close, termination
+454	各自	カクジ		各[カク]自[ジ]	each (person)	everyone, individual, respective
+455	客	キャク		客[キャク]	guest	visitor
+456	条件	ジョウケン		条[ジョウ]件[ケン]	condition	term, requirement, qualification, prerequisite
+457	用意	ヨウイ		用[ヨウ]意[イ]	preparation	arrangements, provision, getting ready, laying out (e.g. a meal)
+458	信用	シンヨウ		信[シン]用[ヨウ]	confidence	trust, faith, reputation, credit (finance)
+459	用いる	もちいる		用[もち]いる	to use	to make use of, to utilize
+460	勇気	ユウキ		勇[ユウ]気[キ]	courage	bravery, valor, nerve, boldness
+461	勇ましい	いさましい		勇[いさ]ましい	brave	valiant, gallant, courageous
+462	交通	コウツウ		交[コウ]通[ツウ]	traffic	transportation, communication, exchange (of ideas, etc.), intercourse
+463	通る	とおる		通[とお]る	to go by	to pass through, to use (a road), to take (a route), to go via, to do ... completely, to do ... thoroughly
+464	通う	かよう		通[かよ]う	to go to and from (a place)	to go back and forth between, to run between (e.g. bus, train, etc.), to ply between
+465	通信	ツウシン		通[ツウ]信[シン]	correspondence	communication, transmission, news, signal, telecommunications
+466	痛い	いたい		痛[いた]い	painful	sore, exceeding
+467	痛む	いたむ		痛[いた]む	to hurt	to ache, to feel a pain
+468	踊る	おどる		踊[おど]る	to dance	
+469	穴	あな		穴[あな]	hole	
+470	空気	クウキ		空[クウ]気[キ]	air	atmosphere
+471	空	そら		空[そら]	sky	the air, the heavens, somehow, vaguely
+472	売る	うる		売[う]る	to sell	
+473	読む	よむ		読[よ]む	to read	
+474	続ける	つづける		続[つづ]ける	to continue	to keep up, to keep on
+475	続く	つづく		続[つづ]く	to continue	to last, to go on, to occur repeatedly, to lead to, to connect to, to adjoin
+476	西	にし		西[にし]	west	
+477	東西	トウザイ		東[トウ]西[ザイ]	east and west	Ladies and Gentlemen!, Your attention, please!, roll-up, roll-up
+478	必要	ヒツヨウ		必[ヒツ]要[ヨウ]	necessary	needed, essential, indispensable, necessity, need, requirement
+479	要る	いる		要[い]る	to be needed	to be wanted
+480	主要	シュヨウ		主[シュ]要[ヨウ]	chief	main, principal, major
+481	腰	こし		腰[こし]	back	lower back, waist, hips, lumbar region
+482	腰痛	ヨウツウ		腰[ヨウ]痛[ツウ]	lower back (or hip) pain	lumbago
+483	酒	さけ		酒[さけ]	alcohol	sake
+484	日本酒	ニホンシュ		日[ニ]本[ホン]酒[シュ]	sake	Japanese rice wine
+485	心配	シンパイ		心[シン]配[パイ]	worry	concern, anxiety, care, help, aid, assistance
+486	配る	くばる		配[くば]る	to distribute	to hand out, to deliver, to deal out, to serve out
+487	物価	ブッカ		物[ブッ]価[カ]	prices of commodities	prices (in general), cost-of-living
+488	評価	ヒョウカ		評[ヒョウ]価[カ]	valuation	estimation, assessment, evaluation, rating, to value, to assess, to rate, to estimate value
+489	示す	しめす		示[しめ]す	to (take out and) show	to demonstrate, to tell, to exemplify, to make apparent
+490	会社	カイシャ		会[カイ]社[シャ]	company	corporation
+491	社長	シャチョウ		社[シャ]長[チョウ]	company president	manager, director
+492	社会	シャカイ		社[シャ]会[カイ]	society	public, community, the world
+493	お礼	おレイ		お礼[レイ]	thanks	gratitude
+494	札	ふだ		札[ふだ]	ticket	token, check, receipt
+495	改札	カイサツ		改[カイ]札[サツ]	examination of tickets	
+496	近い	ちかい		近[ちか]い	near	close, short (distance)
+497	祈る	いのる		祈[いの]る	to pray	to wish
+498	祈り	いのり		祈[いの]り	prayer	supplication
+499	折る	おる		折[お]る	to break	to fracture, to break off, to snap off, to pick (e.g. flowers)
+500	折れる	おれる		折[お]れる	to break	to be broken, to snap, to fracture
+501	時折	ときおり		時[とき]折[おり]	sometimes	
+502	断る	ことわる		断[ことわ]る	to refuse	to reject, to dismiss, to turn down, to decline, to inform, to give notice, to tell in advance, to ask leave, to excuse oneself (from)
+503	継続	ケイゾク		継[ケイ]続[ゾク]	continuation	
+504	中継	チュウケイ		中[チュウ]継[ケイ]	relay	hook-up, relay broadcasting
+505	継ぐ	つぐ		継[つ]ぐ	to succeed (a person	to a position, etc.), to inherit, to take over, to follow
+506	戸	と		戸[と]	door (esp. Japanese-style)	
+507	近所	キンジョ		近[キン]所[ジョ]	neighborhood	
+508	所	ところ		所[ところ]	place	spot, scene, site, whereupon, as a result
+509	羊毛	ヨウモウ		羊[ヨウ]毛[モウ]	wool	
+510	羊	ひつじ		羊[ひつじ]	sheep (Ovis aries)	
+511	西洋	セイヨウ		西[セイ]洋[ヨウ]	the west	Western countries
+512	東洋	トウヨウ		東[トウ]洋[ヨウ]	Orient	
+513	海洋	カイヨウ		海[カイ]洋[ヨウ]	ocean	
+514	遅い	おそい		遅[おそ]い	slow	time-consuming, sluggish
+515	遅れる	おくれる		遅[おく]れる	to be late	to be delayed, to fall behind schedule, to be overdue
+516	美しい	うつくしい		美[うつく]しい	beautiful	lovely
+517	美人	ビジン		美[ビ]人[ジン]	beautiful woman	
+518	南	みなみ		南[みなみ]	south	
+519	南米	ナンベイ		南[ナン]米[ベイ]	South America	
+520	両方	リョウホウ		両[リョウ]方[ホウ]	both	both sides, both parties
+521	満足	マンゾク		満[マン]足[ゾク]	satisfaction	contentment, complacency, sufficient, enough, adequate, proper
+522	不満	フマン		不[フ]満[マン]	dissatisfaction	displeasure, discontent, complaints, unhappiness, disgruntled
+523	満ちる	みちる		満[み]ちる	to be full	
+524	正直	ショウジキ		正[ショウ]直[ジキ]	honest	frank, candid, straightforward, honestly, frankly
+525	直ちに	ただちに		直[ただ]ちに	at once	immediately, directly, in person, automatically
+526	植える	うえる		植[う]える	to plant	to grow, to raise
+527	植物	ショクブツ		植[ショク]物[ブツ]	plant	vegetation
+528	田植え	たうえ		田[た]植[う]え	rice planting	
+529	置く	おく		置[お]く	to put	to place, to do something in advance
+530	位置	イチ		位[イ]置[チ]	place	situation, position, location
+531	速い	はやい		速[はや]い	fast	quick, hasty
+532	究める	きわめる		究[きわ]める	to investigate thoroughly	to master
+533	本	ホン		本[ホン]	book	volume, script, counter for long cylindrical things, counter for films, TV shows, etc., counter for goals, home runs, etc., counter for telephone calls
+534	退く	しりぞく		退[しりぞ]く	to step back	to move back, to retreat, to withdraw (from the presence of a superior), to leave, to exit
+535	否	いや		否[いや]	no	nay, well, er, why
+536	直す	なおす		直[なお]す	to fix	to correct, to repair, to do over again
+537	直る	なおる		直[なお]る	to get mended	to be repaired, to be fixed
