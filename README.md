@@ -1,7 +1,7 @@
 # Installation
 
 To use any of the tools in this repository you are required to have [Python3](https://www.python.org/downloads/)
-installed on your computer. Furthermore, since these tools make use of some Python packages you also need to install
+installed on your computer. If the Python3 installer asks whether you want to add something to PATH, make sure to do so. Furthermore, since these tools make use of some Python packages you also need to install
 [pip](https://bootstrap.pypa.io/get-pip.py) (right-click->save link as... and then run the file). Finally, either clone 
 or download this repository. If you downloaded this repository, unzip it to where you want to. 
 
