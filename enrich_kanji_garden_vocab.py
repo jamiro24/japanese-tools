@@ -41,7 +41,7 @@ def create_furigana(x: str) -> str:
             if r_parts[index] == "":
                 index += 1
         else:
-            full_reading += f'{symbol}[{r_parts[index]}]'
+            full_reading += f' {symbol}[{r_parts[index]}]'
             index += 1
 
     return full_reading
