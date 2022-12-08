@@ -4,9 +4,25 @@
 #
 #    pip-compile requirements.in
 #
-certifi==2019.6.16        # via requests
-chardet==3.0.4            # via requests
+certifi==2022.12.7
+    # via requests
+chardet==3.0.4
+    # via requests
 colorama==0.4.1
-idna==2.8                 # via requests
+    # via -r requirements.in
+idna==2.8
+    # via requests
+numpy==1.23.5
+    # via pandas
+pandas==1.5.2
+    # via -r requirements.in
+python-dateutil==2.8.2
+    # via pandas
+pytz==2022.6
+    # via pandas
 requests==2.22.0
-urllib3==1.25.3           # via requests
+    # via -r requirements.in
+six==1.16.0
+    # via python-dateutil
+urllib3==1.25.3
+    # via requests
